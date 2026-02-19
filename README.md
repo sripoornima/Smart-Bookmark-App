@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # Smart Bookmark App
 A simple full-stack bookmark manager built using Next.js (App Router), Supabase, and Tailwind CSS.
 
 Users can sign in using Google OAuth, add bookmarks, and view them in real-time. Each user's bookmarks are private and protected using Supabase Row Level Security (RLS).
 ## Live Demo
-Vercel URL: https://your-app.vercel.app
+Vercel URL: https://smart-bookmarker-app.vercel.app
 ## Tech Stack
 
 - Next.js (App Router)
@@ -122,4 +121,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 6c1a21c (Initial commit from Create Next App)
